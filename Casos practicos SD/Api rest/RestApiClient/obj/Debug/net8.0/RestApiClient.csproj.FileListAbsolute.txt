@@ -1,0 +1,14 @@
+C:\Users\benja\Proyectos\Documentos\Caso practico SD\RestApiClient\bin\Debug\net8.0\RestApiClient.exe
+C:\Users\benja\Proyectos\Documentos\Caso practico SD\RestApiClient\bin\Debug\net8.0\RestApiClient.deps.json
+C:\Users\benja\Proyectos\Documentos\Caso practico SD\RestApiClient\bin\Debug\net8.0\RestApiClient.runtimeconfig.json
+C:\Users\benja\Proyectos\Documentos\Caso practico SD\RestApiClient\bin\Debug\net8.0\RestApiClient.dll
+C:\Users\benja\Proyectos\Documentos\Caso practico SD\RestApiClient\bin\Debug\net8.0\RestApiClient.pdb
+C:\Users\benja\Proyectos\Documentos\Caso practico SD\RestApiClient\obj\Debug\net8.0\RestApiClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\Proyectos\Documentos\Caso practico SD\RestApiClient\obj\Debug\net8.0\RestApiClient.AssemblyInfoInputs.cache
+C:\Users\benja\Proyectos\Documentos\Caso practico SD\RestApiClient\obj\Debug\net8.0\RestApiClient.AssemblyInfo.cs
+C:\Users\benja\Proyectos\Documentos\Caso practico SD\RestApiClient\obj\Debug\net8.0\RestApiClient.csproj.CoreCompileInputs.cache
+C:\Users\benja\Proyectos\Documentos\Caso practico SD\RestApiClient\obj\Debug\net8.0\RestApiClient.dll
+C:\Users\benja\Proyectos\Documentos\Caso practico SD\RestApiClient\obj\Debug\net8.0\refint\RestApiClient.dll
+C:\Users\benja\Proyectos\Documentos\Caso practico SD\RestApiClient\obj\Debug\net8.0\RestApiClient.pdb
+C:\Users\benja\Proyectos\Documentos\Caso practico SD\RestApiClient\obj\Debug\net8.0\RestApiClient.genruntimeconfig.cache
+C:\Users\benja\Proyectos\Documentos\Caso practico SD\RestApiClient\obj\Debug\net8.0\ref\RestApiClient.dll

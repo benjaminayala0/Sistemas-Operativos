@@ -1,0 +1,14 @@
+C:\Users\benja\Proyectos\Documentos\Caso practico Rabbit\RabbitMQExercise\bin\Debug\net8.0\RabbitMQExercise.exe
+C:\Users\benja\Proyectos\Documentos\Caso practico Rabbit\RabbitMQExercise\bin\Debug\net8.0\RabbitMQExercise.deps.json
+C:\Users\benja\Proyectos\Documentos\Caso practico Rabbit\RabbitMQExercise\bin\Debug\net8.0\RabbitMQExercise.runtimeconfig.json
+C:\Users\benja\Proyectos\Documentos\Caso practico Rabbit\RabbitMQExercise\bin\Debug\net8.0\RabbitMQExercise.dll
+C:\Users\benja\Proyectos\Documentos\Caso practico Rabbit\RabbitMQExercise\bin\Debug\net8.0\RabbitMQExercise.pdb
+C:\Users\benja\Proyectos\Documentos\Caso practico Rabbit\RabbitMQExercise\obj\Debug\net8.0\RabbitMQExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\Proyectos\Documentos\Caso practico Rabbit\RabbitMQExercise\obj\Debug\net8.0\RabbitMQExercise.AssemblyInfoInputs.cache
+C:\Users\benja\Proyectos\Documentos\Caso practico Rabbit\RabbitMQExercise\obj\Debug\net8.0\RabbitMQExercise.AssemblyInfo.cs
+C:\Users\benja\Proyectos\Documentos\Caso practico Rabbit\RabbitMQExercise\obj\Debug\net8.0\RabbitMQExercise.csproj.CoreCompileInputs.cache
+C:\Users\benja\Proyectos\Documentos\Caso practico Rabbit\RabbitMQExercise\obj\Debug\net8.0\RabbitMQExercise.dll
+C:\Users\benja\Proyectos\Documentos\Caso practico Rabbit\RabbitMQExercise\obj\Debug\net8.0\refint\RabbitMQExercise.dll
+C:\Users\benja\Proyectos\Documentos\Caso practico Rabbit\RabbitMQExercise\obj\Debug\net8.0\RabbitMQExercise.pdb
+C:\Users\benja\Proyectos\Documentos\Caso practico Rabbit\RabbitMQExercise\obj\Debug\net8.0\RabbitMQExercise.genruntimeconfig.cache
+C:\Users\benja\Proyectos\Documentos\Caso practico Rabbit\RabbitMQExercise\obj\Debug\net8.0\ref\RabbitMQExercise.dll

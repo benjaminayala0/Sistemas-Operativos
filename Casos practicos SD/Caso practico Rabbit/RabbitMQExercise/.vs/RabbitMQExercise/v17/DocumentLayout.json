@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benja\\Proyectos\\Documentos\\Caso practico Rabbit\\RabbitMQExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53C3711B-E721-415D-8C50-C66EF1C90DE7}|RabbitMQExercise.csproj|c:\\users\\benja\\proyectos\\documentos\\caso practico rabbit\\rabbitmqexercise\\rabbitmqexercise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{53C3711B-E721-415D-8C50-C66EF1C90DE7}|RabbitMQExercise.csproj|solutionrelative:rabbitmqexercise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CEFC08E-1ED2-483F-815B-AB138EF63487}|..\\Publisher\\Publisher.csproj|c:\\users\\benja\\proyectos\\documentos\\caso practico rabbit\\publisher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E03BDD-258F-4023-8B1F-BB0F765A64FE}|..\\Consumer\\Consumer.csproj|c:\\users\\benja\\proyectos\\documentos\\caso practico rabbit\\consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\Proyectos\\Documentos\\Caso practico Rabbit\\Consumer\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Consumer\\Program.cs",
+              "ToolTip": "C:\\Users\\benja\\Proyectos\\Documentos\\Caso practico Rabbit\\Consumer\\Program.cs",
+              "RelativeToolTip": "..\\Consumer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T14:33:06.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\Proyectos\\Documentos\\Caso practico Rabbit\\Publisher\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Publisher\\Program.cs",
+              "ToolTip": "C:\\Users\\benja\\Proyectos\\Documentos\\Caso practico Rabbit\\Publisher\\Program.cs",
+              "RelativeToolTip": "..\\Publisher\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T14:32:53.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RabbitMQExercise",
+              "DocumentMoniker": "C:\\Users\\benja\\Proyectos\\Documentos\\Caso practico Rabbit\\RabbitMQExercise\\RabbitMQExercise.csproj",
+              "RelativeDocumentMoniker": "RabbitMQExercise.csproj",
+              "ToolTip": "C:\\Users\\benja\\Proyectos\\Documentos\\Caso practico Rabbit\\RabbitMQExercise\\RabbitMQExercise.csproj",
+              "RelativeToolTip": "RabbitMQExercise.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-02T14:18:59.102Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

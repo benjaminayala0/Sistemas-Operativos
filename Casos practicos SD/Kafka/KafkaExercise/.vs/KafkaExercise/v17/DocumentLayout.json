@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benja\\Proyectos\\Documentos\\Kafka\\KafkaExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1E9A6C-5BD7-4544-9EF8-6B7C5AEF047B}|..\\Consumer\\Consumer.csproj|c:\\users\\benja\\proyectos\\documentos\\kafka\\consumer\\consumer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D66D204-7016-4F11-AFD7-23CEB647FE86}|KafkaExercise.csproj|c:\\users\\benja\\proyectos\\documentos\\kafka\\kafkaexercise\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4D66D204-7016-4F11-AFD7-23CEB647FE86}|KafkaExercise.csproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1E9A6C-5BD7-4544-9EF8-6B7C5AEF047B}|..\\Consumer\\Consumer.csproj|c:\\users\\benja\\proyectos\\documentos\\kafka\\consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC4F01B7-1C09-4386-BD4D-9EC3031032FF}|..\\Producer\\Producer.csproj|c:\\users\\benja\\proyectos\\documentos\\kafka\\producer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D66D204-7016-4F11-AFD7-23CEB647FE86}|KafkaExercise.csproj|c:\\users\\benja\\proyectos\\documentos\\kafka\\kafkaexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D66D204-7016-4F11-AFD7-23CEB647FE86}|KafkaExercise.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\Proyectos\\Documentos\\Kafka\\Consumer\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Consumer\\Program.cs",
+              "ToolTip": "C:\\Users\\benja\\Proyectos\\Documentos\\Kafka\\Consumer\\Program.cs",
+              "RelativeToolTip": "..\\Consumer\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T15:09:49.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\Proyectos\\Documentos\\Kafka\\Producer\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Producer\\Program.cs",
+              "ToolTip": "C:\\Users\\benja\\Proyectos\\Documentos\\Kafka\\Producer\\Program.cs",
+              "RelativeToolTip": "..\\Producer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T15:09:20.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\benja\\Proyectos\\Documentos\\Kafka\\KafkaExercise\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\benja\\Proyectos\\Documentos\\Kafka\\KafkaExercise\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-10-02T15:05:41.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Consumer",
+              "DocumentMoniker": "C:\\Users\\benja\\Proyectos\\Documentos\\Kafka\\Consumer\\Consumer.csproj",
+              "RelativeDocumentMoniker": "..\\Consumer\\Consumer.csproj",
+              "ToolTip": "C:\\Users\\benja\\Proyectos\\Documentos\\Kafka\\Consumer\\Consumer.csproj",
+              "RelativeToolTip": "..\\Consumer\\Consumer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-02T14:59:01.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\Proyectos\\Documentos\\Kafka\\KafkaExercise\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\benja\\Proyectos\\Documentos\\Kafka\\KafkaExercise\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T14:56:28.151Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

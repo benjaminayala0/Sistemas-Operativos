@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36511.14 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KafkaExercise", "KafkaExercise.csproj", "{4D66D204-7016-4F11-AFD7-23CEB647FE86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Producer", "..\Producer\Producer.csproj", "{CC4F01B7-1C09-4386-BD4D-9EC3031032FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consumer", "..\Consumer\Consumer.csproj", "{1F1E9A6C-5BD7-4544-9EF8-6B7C5AEF047B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D66D204-7016-4F11-AFD7-23CEB647FE86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D66D204-7016-4F11-AFD7-23CEB647FE86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D66D204-7016-4F11-AFD7-23CEB647FE86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D66D204-7016-4F11-AFD7-23CEB647FE86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC4F01B7-1C09-4386-BD4D-9EC3031032FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC4F01B7-1C09-4386-BD4D-9EC3031032FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC4F01B7-1C09-4386-BD4D-9EC3031032FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC4F01B7-1C09-4386-BD4D-9EC3031032FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F1E9A6C-5BD7-4544-9EF8-6B7C5AEF047B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F1E9A6C-5BD7-4544-9EF8-6B7C5AEF047B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F1E9A6C-5BD7-4544-9EF8-6B7C5AEF047B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F1E9A6C-5BD7-4544-9EF8-6B7C5AEF047B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26372CA2-7237-4563-ADC2-B15DF5834458}
+	EndGlobalSection
+EndGlobal
